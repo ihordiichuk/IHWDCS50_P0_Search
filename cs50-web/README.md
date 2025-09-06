@@ -4,19 +4,19 @@ This is a simple search engine interface inspired by Google, built as part of th
 
 ## Features
 
-- **Google Search:**  
+- **Google Search:**
   Search the web using Google directly from the interface.
 
-- **Image Search:**  
+- **Image Search:**
   Search for images using Google Images.
 
-- **Advanced Search:**  
+- **Advanced Search:**
   Use Google’s advanced search options to refine your queries.
 
-- **Responsive Design:**  
+- **Responsive Design:**
   The layout adapts to different screen sizes for usability.
 
-- **Navigation:**  
+- **Navigation:**
   Quick links at the top of each page for easy navigation between search types.
 
 ## File Structure
@@ -44,8 +44,11 @@ Project 0/
    - `image.html` for Image Search
    - `advanced.html` for Advanced Search
 
-3. **Enter your search terms and submit the form.**  
+3. **Enter your search terms and submit the form.**
    You will be redirected to the appropriate Google results page.
+
+## Video Demo
+https://www.youtube.com/watch?v=mUjmyEuNO88
 
 ## License
 
